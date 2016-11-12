@@ -2,6 +2,7 @@
 +++
 
 date = "2016-11-07T04:07:12"
+tags = ["propercast"] 
 title = "PenguinPunch Goes to Ohio Linux Fest"
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291848702&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
