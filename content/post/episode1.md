@@ -1,22 +1,11 @@
 +++
 
-["propercast"] date = "2016-08-24T12:48:18-04:00"
-title = "Big Data Sexy"
-description = "The guys talk to Chas Busenburg a Data Scientist."
+date = "2016-08-24T12:48:18-04:00" tags = ["propercast"] title = "Big Data Sexy"
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278433255&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 +++
 
-##  PenguinPunch Podcast EP9
-
-### Show Notes
-
-#### Intros
-
-Justin Snyder : [Pylogix](https://twiter.com/pylogix)  
-Mat Robinson : [Chasinglogic](https://twitter.com/chasinglogic)  
-Jason Crosby : [Secureshell](https://twitter.com/SecureshellV2)
-Chas Busenburg : [cbusenbu](https://twitter.com/cbusenbu) [cwbusenburg.com](http://www.cwbusenburg.com)
+The guys talk to Chas Busenburg a Data Scientist.
 
 
 #### Open Discussion and News
