@@ -1,19 +1,10 @@
 +++
 
-["propercast"] date = "2016-08-29T12:48:18-04:00" 
-title = "When did you first use Linux?"
-description = "The guys discuss when and where they first used linux. What has kept them using it and why they think 2016 is a big year for Linux. Oh and Happy 25th Birthday Linux." 
+date = "2016-08-29T12:48:18-04:00" tags = ["propercast"] title = "When did you first use Linux?"
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280508271&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 +++
-
-##  PenguinPunch Podcast EP10
-### Show Notes
-
-#### Intros
-Justin Snyder : [Pylogix](https://twiter.com/pylogix)  
-Mat Robinson : [Chasinglogic](https://twitter.com/chasinglogic)  
-Jason Crosby : [Secureshell](https://twitter.com/SecureshellV2)
+The guys discuss when and where they first used linux. What has kept them using it and why they think 2016 is a big year for Linux. Oh and Happy 25th Birthday Linux. 
 
 #### Matter of Business
 
