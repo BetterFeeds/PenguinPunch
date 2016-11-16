@@ -45,9 +45,9 @@ ChasingLogic
 
 [When selecting a Linux distro for their self driving cars, Uber didn't pick Arch Linux.](http://www.omgubuntu.co.uk/2016/09/ubers-self-driving-pickups-pittsburgh-powered-ubuntu)
 
-> In Mashable’s first-hand account of what’s it’s like to be take a ride in a self-driving Uber you’ll notice that, like Tesla, that Ubuntu helps power Uber’s self driving smarts.
+> In Mashable's first-hand account of what's it's like to be take a ride in a self-driving Uber you'll notice that, like Tesla, that Ubuntu helps power Uber's self driving smarts.
 >
-> And TechCrunch’s Signe Brewster, in a write up of her experience in the same vehicle, says she “came away from my ride trusting the technology. The self-driving car detected obstacles, people and even potholes, and responded intelligently.“
+> And TechCrunch's Signe Brewster, in a write up of her experience in the same vehicle, says she “came away from my ride trusting the technology. The self-driving car detected obstacles, people and even potholes, and responded intelligently.“
 
 Pylogix
 
@@ -68,7 +68,7 @@ ChasingLogic
 
 [Free yourself with Sovereign](https://github.com/sovereign/sovereign)
 
-> Sovereign is a set of Ansible playbooks that you can use to build and maintain your own personal cloud based entirely on open source software, so you’re in control.
+> Sovereign is a set of Ansible playbooks that you can use to build and maintain your own personal cloud based entirely on open source software, so you're in control.
 
 Secureshell
 
@@ -93,9 +93,9 @@ OCTOBER 7-8 AT THE HYATT REGENCY COLUMBUS, OHIO.
 [Mat Speaks on OCT 7TH 2:00PM in FRANKLIN
 A](https://ohiolinux.org/speakers#mathew-robinson)
 
-> **I Don’t Git It**
+> **I Don't Git It**
 >
-> How do I use git? What is a commit? Why are we using forks instead of spoons? What is version control? In this talk, I will be demonstrating how to use git (no prior knowledge necessary) as well as why to use git and, almost more importantly, when NOT to use git. I’ll be speaking with a focus on how you can take this knowledge to contribute to open source projects and there will be a demo making a contribution to an open source project on GitHub. By the end of this session, you will be able to start using git in your own projects as well as beginning to contribute to others.
+> How do I use git? What is a commit? Why are we using forks instead of spoons? What is version control? In this talk, I will be demonstrating how to use git (no prior knowledge necessary) as well as why to use git and, almost more importantly, when NOT to use git. I'll be speaking with a focus on how you can take this knowledge to contribute to open source projects and there will be a demo making a contribution to an open source project on GitHub. By the end of this session, you will be able to start using git in your own projects as well as beginning to contribute to others.
 
 ## The Deep Dive
 **Is FOSS facing extinction?**

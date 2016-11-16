@@ -15,7 +15,7 @@ Pylogix
 
 Secureshell
 [Deus Ex: Mankind Divided is officially coming to SteamOS & Linux, port by Feral Interactive](https://www.gamingonlinux.com/articles/deus-ex-mankind-divided-is-officially-coming-to-steamos-linux-port-by-feral-interactive.8090)
->Here’s the news you have been desperate to hear, Deus Ex: Mankind Divided is officially heading to SteamOS & Linux and it’s being ported by Feral Interactive.
+>Here's the news you have been desperate to hear, Deus Ex: Mankind Divided is officially heading to SteamOS & Linux and it's being ported by Feral Interactive.
 
 Pylogix
 [Microsoft really does love Linux](http://www.theverge.com/platform/amp/2016/9/15/12926288/microsoft-really-does-love-linux)
@@ -30,7 +30,7 @@ pylogix
 [Run Arch on your Windows](http://www.techworm.net/2016/09/can-now-run-arch-linux-windows-using-awsl.html)
 > Now, Microsoft has come up with WSL (Windows Subsystem for Linux), which will not only provide a lab for the hacking experts who want to see how far they can push the WSL but also an opportunity for the software giant to try and appeal Linux devs into making themselves comfortable in Windows.
 
->WSL uses Ubuntu as the basis for its kernel and user space by default, although the primary subsystem is in theory distribution-agnostic. It just translates Linux system calls into their Windows counterparts or offers emulation when there isn’t a 1:1 match. As a result, ALWSL needs to do very little on its own to make Arch Linux work.
+>WSL uses Ubuntu as the basis for its kernel and user space by default, although the primary subsystem is in theory distribution-agnostic. It just translates Linux system calls into their Windows counterparts or offers emulation when there isn't a 1:1 match. As a result, ALWSL needs to do very little on its own to make Arch Linux work.
 
 Secureshell
 [I Have Been Linuxing Since Before you Were Born](https://opensource.com/life/16/7/my-linux-story-carla-schroder)

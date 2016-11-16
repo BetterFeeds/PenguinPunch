@@ -14,7 +14,7 @@ The guys talk to Chas Busenburg a Data Scientist.
 
 > Using iOS as your primary OS is like using desktop Linux.
 > 
-> No, hear me out. See, Linux users don’t care how much easier we say it is in our non-Linux worlds. Sure, they say it’s because of open access and free as in scotch ale and yadda yadda yadda, but really? They like the challenge. Figuring out how to do what they used to do on a Mac or Windows PC is part of the allure.
+> No, hear me out. See, Linux users don't care how much easier we say it is in our non-Linux worlds. Sure, they say it's because of open access and free as in scotch ale and yadda yadda yadda, but really? They like the challenge. Figuring out how to do what they used to do on a Mac or Windows PC is part of the allure.
 
 [TypeScript is getting the love, Open Source <3's Microsoft?](https://github.com/Microsoft/TypeScript/issues/10011)
 

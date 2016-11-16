@@ -22,13 +22,13 @@ Secureshell
 Pylogix
 [AFTER 16 YEARS, OPENOFFICE CONTEMPLATES RETIREMENT](http://www.digitaltrends.com/computing/open-office-retirement/)
 
-> The email thread, titled “What would OpenOffice retirement involve?” comes after years of developer attrition. Open source developers have been abandoning OpenOffice in favor of the more popular LibreOffice for a couple years now and it shows. OpenOffice hasn’t been updated since October 2015, and project leaders are getting worried about what that might mean for user security.
+> The email thread, titled “What would OpenOffice retirement involve?” comes after years of developer attrition. Open source developers have been abandoning OpenOffice in favor of the more popular LibreOffice for a couple years now and it shows. OpenOffice hasn't been updated since October 2015, and project leaders are getting worried about what that might mean for user security.
 
 Pylogix
 Click-Bait Alert
 [Latest Intel, AMD chips will only run Windows 10](http://www.theregister.co.uk/2016/09/02/windows_intel_kaby_lake_amd_zen/)
 
-> Future silicon platforms including Intel's upcoming 7th Gen Intel Core (Kaby Lake) processor family and AMD’s 7th generation processors (e.g. Bristol Ridge) will only be supported on Windows 10, and all future silicon releases will require the latest release of Windows 10.
+> Future silicon platforms including Intel's upcoming 7th Gen Intel Core (Kaby Lake) processor family and AMD's 7th generation processors (e.g. Bristol Ridge) will only be supported on Windows 10, and all future silicon releases will require the latest release of Windows 10.
 
 ChasingLogic 
 [HTTP > HTTPS, a quality shitpost](https://fakedaveshahsoftwarebosstips.wordpress.com/2016/04/17/why-http-is-better-than-https/)
@@ -50,7 +50,7 @@ Secureshell
 Pylogix
 [KDE Connect links your Android phone with your Linux desktop](http://www.pcworld.com/article/3114186/linux/kde-connect-brings-android-and-linux-together.html)
 
-> With KDE Connect on your Linux PC and Android phone, you’ll be able to link them together. Notifications you receive on your Android phone will appear on your Linux PC. If you receive an SMS message on your phone, you’ll see it on your Linux PC and you can respond to it from Linux. 
+> With KDE Connect on your Linux PC and Android phone, you'll be able to link them together. Notifications you receive on your Android phone will appear on your Linux PC. If you receive an SMS message on your phone, you'll see it on your Linux PC and you can respond to it from Linux. 
 
 `sudo add-apt-repository ppa:kubuntu-ppa/backports`
 

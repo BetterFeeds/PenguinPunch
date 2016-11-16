@@ -1,9 +1,12 @@
 +++
 
-date = "2016-08-29T12:48:18-04:00" tags = ["propercast"] title = "When did you first use Linux?"
+date = "2016-08-29T12:48:18-04:00" 
+tags = ["propercast"] 
+title = "When did you first use Linux?"
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280508271&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 +++
+
 The guys discuss when and where they first used linux. What has kept them using it and why they think 2016 is a big year for Linux. Oh and Happy 25th Birthday Linux. 
 
 #### Matter of Business
@@ -13,15 +16,15 @@ The guys discuss when and where they first used linux. What has kept them using 
 #### Happy Birthday Linux - pylogix
 [Linux Turns 25](https://techcrunch.com/2016/08/22/happy-25th-birthday-linux/)
 
-> August 25th it will be 25 years ago that Linus Torvalds sent out his fateful message asking for help with a new operating system. “I’m doing a (free) operating system (just a hobby, won’t be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I’d like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things),” he wrote in the comp.os.minix message board. And the rest, as they say, is history. 
+> August 25th it will be 25 years ago that Linus Torvalds sent out his fateful message asking for help with a new operating system. “I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things),” he wrote in the comp.os.minix message board. And the rest, as they say, is history. 
 
 #### Open Discussion
 
 [Richard Stallman Interview @SiliconAngle](http://siliconangle.com/blog/2016/04/28/gnu-founder-stallman-open-source-is-not-free-software/) - chasinglogic
 
-> **We now have access to the world’s knowledge at our fingertips. You would think that would make us a more enlightened society, but the U.S. is more politically polarized than it has been since the Vietnam War. Does that surprise you?**
+> **We now have access to the world's knowledge at our fingertips. You would think that would make us a more enlightened society, but the U.S. is more politically polarized than it has been since the Vietnam War. Does that surprise you?**
 > 
-> It makes sense when you look at the way systems that track people are designed to gather information and sort them into buckets that only see what they agree with. This is the filter bubble. Systems must not track people. I don’t mind paying to download something as long as I can do so anonymously. There should be no restrictions and no digital rights management.
+> It makes sense when you look at the way systems that track people are designed to gather information and sort them into buckets that only see what they agree with. This is the filter bubble. Systems must not track people. I don't mind paying to download something as long as I can do so anonymously. There should be no restrictions and no digital rights management.
 
 [The sad truth is, Linux gaming still sucks.](http://www.phoronix.com/scan.php?page=article&item=intel-skl-win10anv&num=1) - chasinglogic
 
@@ -35,17 +38,17 @@ The guys discuss when and where they first used linux. What has kept them using 
 
 [MySQL daddy Widenius: Open-source religion won't feed MariaDB](http://www.theregister.co.uk/2016/08/24/monty_interview/) - chasinglogic
 
-> Widenius told The Register in an interview that he believes criticism of MariaDB’s commercial licence for its new database proxy sever, MaxScale 2.0, is motivated by a "religious" belief in free and open source software.
+> Widenius told The Register in an interview that he believes criticism of MariaDB's commercial licence for its new database proxy sever, MaxScale 2.0, is motivated by a "religious" belief in free and open source software.
 >
-> Not that Widenius is against the belief per se, he told The Register, it’s just: "Religion doesn't put meat on the table."
+> Not that Widenius is against the belief per se, he told The Register, it's just: "Religion doesn't put meat on the table."
 
 [Everybody Should Be Haiku Writing](https://freedompenguin.com/articles/distro-review/everybody-haiku-writing/) - secureshell
 
->As many of my readers have probably figured out, I am a fan of the stuff that’s “out there.” You don’t even have to use it. It doesn’t need to be something that will necessarily set the world on fire. If there’s passion in its development and design, I’m pretty much on board. And I can’t wait to try it.
+>As many of my readers have probably figured out, I am a fan of the stuff that's “out there.” You don't even have to use it. It doesn't need to be something that will necessarily set the world on fire. If there's passion in its development and design, I'm pretty much on board. And I can't wait to try it.
 
 [Is it wrong to use Microsoft products on Linux?](http://www.cio.com/article/3107109/linux/is-it-wrong-to-use-microsoft-products-on-linux.html) - secureshell
 
->Under Satya Nadella's leadership, there has been a change in Microsoft’s attitude towards Linux. Don't get me wrong. The attitude shift isn't out of a sense of doing the right thing or an acknowledgement that open source is better. It's a business move. Microsoft has to go where its customers are.
+>Under Satya Nadella's leadership, there has been a change in Microsoft's attitude towards Linux. Don't get me wrong. The attitude shift isn't out of a sense of doing the right thing or an acknowledgement that open source is better. It's a business move. Microsoft has to go where its customers are.
 
 Mat's officially an expert! Sort of. Getting accepted to give a talk at OHLF 2016
 

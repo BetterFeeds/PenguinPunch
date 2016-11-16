@@ -34,7 +34,7 @@ Pylogix
 Pylogix
 [Linux Directories Explained](http://www.2daygeek.com/linux-directory-structure-file-system-hierarchy/#)
 
-> Are you new to Linux ? If so, I would advise you to understand the Linux Directory Structure (File System Hierarchy) first. Don’t panic/scare after seeing the below image (File System Hierarchy). Getting confusion about /bin, /sbin, /usr/bin & /usr/sbin don’t worry, we are here to teach you like a baby
+> Are you new to Linux ? If so, I would advise you to understand the Linux Directory Structure (File System Hierarchy) first. Don't panic/scare after seeing the below image (File System Hierarchy). Getting confusion about /bin, /sbin, /usr/bin & /usr/sbin don't worry, we are here to teach you like a baby
 
 chasinglogic
 [XFS has super CoW powers!](https://www.reddit.com/r/linux/comments/577e11/xfs_has_gained_super_cow_powers_almost/)
