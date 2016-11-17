@@ -6,14 +6,10 @@ tags = ["propercast"]
 
 +++
 
+This week the guys take on the idea that linux and other open source projects are in danger of dying if they do not join up and work together to make their presence felt. Does it hold water or is it a whole lot of FUD from someone who is propagting his own agenda? 
+
+
 ## Open Discussion
-
-Welcome to antoher episode of penguin punch im your host Justin Snyder you can
-find me on on the web as Pylofix I am joined each and every week to two fo the
-smartest guys in opens source today 
-
-together we brign you the penguin punch podcast whwe we discuss the latest in
-open source news to begin our episcoe this week... 
 
 Pylogix
 
