@@ -2,6 +2,7 @@
 
 date = "2016-11-16T21:14:07-05:00"
 title = "Join or Die! FUD at it's finest."
+tags = ["propercast"]
 
 +++
 
