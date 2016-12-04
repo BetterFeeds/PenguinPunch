@@ -1,7 +1,7 @@
 
 +++
 
-date = "2016-11-16T21:14:07-05:00" title = "Performance vs Portability" tags = ["propercast"] soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296094382&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
+date = "2016-11-30T21:14:07-05:00" title = "Performance vs Portability" tags = ["propercast"] soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296094382&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 +++
 
