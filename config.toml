@@ -3,6 +3,7 @@ title = "PenguinPUNCH Podcast"
 copyright = "This site and content are licensed under the GPL, source code can be found [here](https://github.com/chasinglogic/penguinpunch.com)"
 author = "Mathew Robinson; Justin Snyder; Jason Crosby"
 theme = "penguinpunch"
+paginate = 9
 
 [taxonomies]
 category = "categories"
