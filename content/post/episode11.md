@@ -6,10 +6,6 @@ date = "2016-12-28T21:14:07-05:00" title = "2016 in Review" tags = ["propercast"
 
 
 
-
-
-# PenguinPunch 12-28-16
-
 ## Open Discussion
 
 ### [Progress is Brisk, the Brisk menu so far](https://plus.google.com/+MartinWimpress/posts/RYWawLs1r5M) <small style="font-size: 16px">[@chasinglogic](https://twitter.com/chasinglogic)</small>
