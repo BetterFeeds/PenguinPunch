@@ -4,7 +4,7 @@ date = "2016-12-14T21:14:07-05:00" title = "Ideas on how to contribute to open-s
 
 +++
 
-# PenguinPunch 12-14-16
+
 
 ## Open Discussion
 
