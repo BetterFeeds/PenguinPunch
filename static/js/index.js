@@ -8,3 +8,5 @@ alignSocial();
 setTimeout(alignSocial, 100);
 setTimeout(alignSocial, 1000);
 $(window).resize(alignSocial);
+
+console.log("Why are you reading this?");
