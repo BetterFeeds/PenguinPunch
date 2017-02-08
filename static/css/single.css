@@ -1,0 +1,13 @@
+/** this file is single, just like me :'( */
+
+article {
+  margin-bottom: 60px;
+}
+
+article p {
+  font-size: 1.3em;
+}
+
+article blockquote p {
+  font-size: 1.2em;
+}

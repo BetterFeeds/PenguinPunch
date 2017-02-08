@@ -1,0 +1,42 @@
+{{ partial "header" . }}
+{{ partial "navbar_colors" . }}
+
+<div class="container">
+    <style>
+     .li {
+	 height: 250px;
+     }
+    </style>
+    <div class="row archive">
+	{{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
+	{{ if isset .Params "soundcloud" }}
+	{{ .Render "li" }}
+	<div></div>
+	{{ end }}
+	{{ end }}
+    </div>
+</div>
+
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext)  }}
+<nav class="paging">
+    {{ if .Paginator.HasPrev  }}
+    <a href="{{ .URL  }}page/{{ .Paginator.Prev.PageNumber  }}" class=""
+        rel="prev">
+	<button class="btn btn-default">
+	    PREV
+	</button>
+	</a>
+	{{ end  }}
+
+	{{ if .Paginator.HasNext  }}
+	<a href="{{ .URL  }}page/{{ .Paginator.Next.PageNumber  }}"
+	   class="" rel="next">
+	    <button class="btn btn-default">
+		NEXT
+	    </button>
+	</a>
+	{{ end  }}
+</nav>
+{{ end  }}
+
+{{ partial "footer" . }}

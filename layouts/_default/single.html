@@ -1,0 +1,17 @@
+{{ partial "header" . }}
+{{ partial "navbar_colors" . }}
+
+<div class="container site-container">
+  <h1 class="title text-center">
+    <strong>{{ .Title }}</strong>
+    <small>{{ .Date.Format "Mon, Jan 2, 2006" }}</small>
+  </h1>
+
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" 
+                                                   src="{{ $.Params.soundcloud }}"></iframe>
+  <article>
+    {{ .Content }}
+  </article>
+</div>
+
+{{ partial "footer" . }}

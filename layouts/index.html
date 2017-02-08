@@ -1,0 +1,53 @@
+{{ partial "header" . }}
+
+<style>
+  .navbar {
+    margin-bottom: 280px !important;
+  }
+
+  .navbar-nav li a {
+    font-size: 1.2em;
+  }
+
+  .navbar-brand {
+    display: none !important;
+  }
+
+  @media (max-width: 991px) {
+    .navbar{
+      margin-bottom: 20px !important;
+      background-color: #00112B !important;
+    }
+  }
+</style>
+
+<div class="herow visible-lg visible-md">
+  <img src="/img/hero.png"/>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-9">
+      <div class="row propercast">
+        {{ range (.Paginator 6).Pages }}
+          {{ .Render "li" }}
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="col-md-3 sidebar">
+      <audio class="promo-player" controls>
+        <source src="/audio/promo.mp3" type="audio/mp3">
+      </audio>
+      <a class="twitter-timeline" data-width="260" data-height="330"
+         href="https://twitter.com/chasinglogic/lists/penguinpunch">
+        A Twitter List by chasinglogic
+      </a> 
+      <script async src="//platform.twitter.com/widgets.js" 
+                    charset="utf-8"></script>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer" . }}
