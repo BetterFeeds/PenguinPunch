@@ -73,4 +73,4 @@ Mat escapes the clutches of death by the skin of his teeth in a car accident whi
 ## Deep Dive
 Project or Product
 
-Revisiting an important topic from the "lost" episodes the guys debate whether your Linux distro should be a product or a project?
+Eveyday we use different applications that were developed by people all around the workld contributing to a open source project. But aat what point does that project turn in to a product. The guys discuss their thougths on this topic and where they think that line is and some projects they think have made that jump. 
