@@ -18,6 +18,8 @@ Due to the delay, they will also be releasing the Linux version along with a dis
 
 ### [Pi Hole Ad filtering for your network](https://pi-hole.net/) <small style="font-size: 16px">[@pylogix](https://twitter.com/pylogix)</small>
 
+Pi-Hole is a simple applicaiton that you can load on your raspberry pi to act as a DNS server that will block over 900,000 domains that host ads. 
+
 
 ---
 
