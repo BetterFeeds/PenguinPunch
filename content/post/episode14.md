@@ -18,7 +18,6 @@ Due to the delay, they will also be releasing the Linux version along with a dis
 
 ### [Pi Hole Ad filtering for your network](https://pi-hole.net/) <small style="font-size: 16px">[@pylogix](https://twitter.com/pylogix)</small>
 
-https://www.youtube.com/watch?v=vKWjx1AQYgs
 
 ---
 
