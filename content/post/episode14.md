@@ -5,7 +5,7 @@ date = "2017-02-08T21:14:07-05:00" title = "Product or Project" tags = ["properc
 
 +++
 
-#### Open Discussion
+## Open Discussion
 
 ### [Civ 6 Releases February 9th Only NVIDIA cards for now.](https://www.gamingonlinux.com/articles/early-exclusive-civilization-vi-to-release-february-9th-for-linux-with-a-discount-nvidia-only-for-now.9052) <small style="font-size: 16px">[@chasinglogic](https://twitter.com/chasinglogic)</small>
 
