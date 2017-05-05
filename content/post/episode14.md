@@ -1,9 +1,8 @@
-
 +++
 
-date = "2017-02-08T21:14:07-05:00" 
-title = "Product or Project" 
-tags = ["propercast"] 
+date = "2017-02-08T21:14:07-05:00"
+title = "Product or Project"
+tags = ["propercast"]
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307388200&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 +++

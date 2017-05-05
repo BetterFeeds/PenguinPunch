@@ -1,6 +1,9 @@
 +++
 
-date = "2016-12-14T21:14:07-05:00" title = "Ideas on how to contribute to open-source" tags = ["propercast"] soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301575258&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
+date = "2016-12-14T21:14:07-05:00"
+title = "Ideas on how to contribute to open-source"
+tags = ["propercast"]
+soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301575258&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 +++
 
