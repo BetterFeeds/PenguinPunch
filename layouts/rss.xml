@@ -5,8 +5,8 @@
     <description>PenguinPunch is a podcast produced by three friends with a love of Linux and all things Open Source. There are 27 years of Linux experience between all members of the podcast and, like most FOSS community members, rarely agree on anything. Listen to this podcast to hear the team hashing out issues in the FOSS community today where all of the major viewpoints in FOSS are represented, The Developer, The Crusty Old Sys Admin, and the Newb.</description>
     <generator>Hugo -- gohugo.io</generator>
     {{ with .Site.LanguageCode }}<language>{{ . }}</language>{{ end }}
-    {{ with .Site.Author.email }}<managingEditor>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}
-    {{ with .Site.Author.email }}<webMaster>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}
+    <managingEditor>mathew@penguinpunch.com (Mathew Robinson)</managingEditor>
+    <webMaster>mathew@penguinpunch.com (Mathew Robinson)</webMaster>
     {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
     {{ if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}{{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}{{ end }}
@@ -15,7 +15,7 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{ end }}
+      <author>{{ delimit .Site.Params.Author ", " " and " }}</author>
       <guid>{{ .Permalink }}</guid>
       <description>{{ with .Description }}{{ . | html }}{{ else }}{{ .Summary | html }}{{ end }}</description>
       <content:encoded>{{ .Content | html }}</content:encoded>
